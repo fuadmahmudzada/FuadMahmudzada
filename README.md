@@ -12,8 +12,8 @@
 
 ## Repos to checkout
 
-<a href="https://github.com/fuadmahmudzada/yali"><img src= "https://github-readme-stats.vercel.app/api/pin/?username=fuadmahmudzada&repo=yalli" alt = "fuadmahmudzada" /></a>
-<a href="https://github.com/fuadmahmudzada/trips"><img src= "https://github-readme-stats.vercel.app/api/pin/?username=fuadmahmudzada&repo=trips" alt = "fuadmahmudzada" /></a>
+<a href="https://github.com/fuadmahmudzada/yali"><img src= "https://github-readme-stats.vercel.app/api/pin/?username=fuadmahmudzada&repo=yalli" alt = "fuadmahmudzada/trips" /></a>
+<a href="https://github.com/fuadmahmudzada/trips"><img src= "https://github-readme-stats.vercel.app/api/pin/?username=fuadmahmudzada&repo=trips" alt = "fuadmahmudzada/trips" /></a>
 ## Pinned Projects In The End 👇
 <p align="left"> 
 <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> 
