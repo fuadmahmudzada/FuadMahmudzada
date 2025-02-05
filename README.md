@@ -11,7 +11,9 @@
 
 
 ## Repos to checkout
+
 <a href="https://github.com/fuadmahmudzada/yali"><img src= "https://github-readme-stats.vercel.app/api/pin/?username=fuadmahmudzada&repo=yalli" alt = "fuadmahmudzada" /></a>
+<a href="https://github.com/fuadmahmudzada/spring-security"><img src= "https://github-readme-stats.vercel.app/api/pin/?username=fuadmahmudzada&repo=spring-security" alt = "fuadmahmudzada" /></a>
 <p align="left"> 
 <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="java" width="50" height="50"/> 
@@ -42,7 +44,7 @@
   </a>
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
 </p>
-<p align="center">
+<p align="left">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fuadmahmudzada&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuadmahmudzada&show_icons=true&locale=en&layout=compact" alt="fuadmahmudzada" /></p>
