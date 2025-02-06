@@ -10,7 +10,7 @@
 
 
 
-## Repos to checkout
+## Starred Repos to checkout
 
 <a href="https://github.com/fuadmahmudzada/yali"><img src= "https://github-readme-stats.vercel.app/api/pin/?username=fuadmahmudzada&repo=yalli" alt = "fuadmahmudzada/trips" /></a>
 
