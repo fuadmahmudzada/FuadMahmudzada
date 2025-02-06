@@ -13,8 +13,8 @@
 ## Repos to checkout
 
 <a href="https://github.com/fuadmahmudzada/yali"><img src= "https://github-readme-stats.vercel.app/api/pin/?username=fuadmahmudzada&repo=yalli" alt = "fuadmahmudzada/trips" /></a>
-<a href="https://github.com/fuadmahmudzada/trips"><img src= "https://github-readme-stats.vercel.app/api/pin/?username=fuadmahmudzada&repo=trips" alt = "fuadmahmudzada/trips" /></a>
-## Pinned Projects In The End 👇
+
+## Checkout Pinned Projects Below 👇
 <p align="left"> 
 <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="java" width="50" height="50"/> 
