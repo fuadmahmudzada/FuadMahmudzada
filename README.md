@@ -45,7 +45,10 @@
   </a>
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
 </p>
-<p align="left">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fuadmahmudzada&mode=weekly" alt="GitHub Streak" /></a>
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuadmahmudzada&show_icons=true&locale=en&layout=compact" alt="fuadmahmudzada" /></p>
+<p>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=fuadmahmudzada&mode=weekly" alt="GitHub Streak" /></a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuadmahmudzada&show_icons=true&locale=en&layout=compact" alt="fuadmahmudzada" />
+    </p>
+<h3 align = "center">I am a warrior 🥷 Checkout my CodeWars and See the <span style="color: red">Wars</span> I have Won</h3>
+<div align = "center"><img class= "center" src = "https://codewars-stats-ignacio-cuadra.vercel.app/?username=Fua4Mahmu4&theme=hacker"></div>
+
