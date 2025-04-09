@@ -50,5 +50,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuadmahmudzada&show_icons=true&locale=en&layout=compact" alt="fuadmahmudzada" />
     </p>
 <h3 align = "center">I am a warrior 🥷 Checkout my CodeWars and See the <span style="color: red">Wars</span> I have Won</h3>
-<div align = "center"><img class= "center" src = "https://codewars-stats-ignacio-cuadra.vercel.app/?username=Fua4Mahmu4&theme=hacker"></div>
+<div align = "center"><a href="https://www.codewars.com/users/Fua4Mahmu4"><img class= "center" src = "https://codewars-stats-ignacio-cuadra.vercel.app/?username=Fua4Mahmu4&theme=hacker"></a></div>
 
