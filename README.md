@@ -12,7 +12,7 @@
 
 ## Starred Repos to checkout
 
-<a href="https://github.com/fuadmahmudzada/yali"><img src= "https://github-readme-stats.vercel.app/api/pin/?username=fuadmahmudzada&repo=yalli" alt = "fuadmahmudzada/trips" /></a>
+<a href="https://github.com/fuadmahmudzada/yalli"><img src= "https://github-readme-stats.vercel.app/api/pin/?username=fuadmahmudzada&repo=yalli" alt = "fuadmahmudzada/trips" /></a>
 <a href="https://github.com/fuadmahmudzada/advanced-comment-system"><img src= "https://github-readme-stats.vercel.app/api/pin/?username=fuadmahmudzada&repo=advanced-comment-system" alt = "fuadmahmudzada/trips" /></a>
 ## Checkout Pinned Projects Below 👇
 <p align="left"> 
